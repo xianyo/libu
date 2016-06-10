@@ -35,7 +35,7 @@
 #define HAVE_INTMAX_T 1
 
 #undef HAVE__BOOL
-#define HAVE__BOOL 1
+//#define HAVE__BOOL 1
 
 #undef HAVE_FLOAT__COMPLEX
 #define HAVE_FLOAT__COMPLEX 1
